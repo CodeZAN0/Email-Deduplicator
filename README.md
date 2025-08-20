@@ -32,4 +32,4 @@ Save the results to a file if desired
 
 Perfect for cleaning email lists, removing duplicate credentials, and organizing authentication data.
 
-https://img.shields.io/badge/Python-3.6%252B-blue?style=for-the-badge&logo=python https://img.shields.io/badge/License-MIT-green?style=for-the-badge
+<img width="805" height="636" alt="Screenshot 2025-08-20 183318" src="https://github.com/user-attachments/assets/07b5eefb-e806-4ad4-a035-5c0a69a9efed" />
