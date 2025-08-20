@@ -19,7 +19,9 @@ The application processes input line by line, looking for email:password pairs s
 Requirements
 Python 3.6+
 
-CustomTkinter (pip install customtkinter)
+CustomTkinter (pip install customtkinter) 
+or 
+pip install -r requirements.txt
 
 Usage
 Paste your email:password pairs into the input field or load from a file
